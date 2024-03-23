@@ -1,0 +1,12 @@
+## Interface: 90200
+## Title: 9ka24xt8dfq6mv3c
+## Notes: 9ka24xt8dfq6mv3c
+## LoadOnDemand: 0
+## DefaultState: enabled
+## Dependencies: bxhnz7tp5bge7wvu
+
+items.lua
+spellbook.lua
+# beastmastery.lua
+# marksmanship.lua
+survival.lua
